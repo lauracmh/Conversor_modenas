@@ -24,13 +24,9 @@ Para ejecutar este proyecto debes:
   >Desarrollado por Laura Marín Hernández
   >www.linkedin.com/in/laura-marin-hernandez-65509055
 
+https://github.com/lauracmh/Conversor_modenas/assets/157854108/8ceab883-4543-4428-9337-5853302e3029
 
-![image](https://github.com/lauracmh/Conversor_modenas/assets/157854108/9c443bd5-ee58-4e69-a8e8-df03215d20d3)
-![image](https://github.com/lauracmh/Conversor_modenas/assets/157854108/a4790220-457d-45d4-9daf-78af9a0a06ec)
-![image](https://github.com/lauracmh/Conversor_modenas/assets/157854108/517bab0a-8a47-48b5-8e0d-9bcf673f986a)
-![image](https://github.com/lauracmh/Conversor_modenas/assets/157854108/b51cf50e-c68f-4c57-a5b4-650cf393f643)
-![image](https://github.com/lauracmh/Conversor_modenas/assets/157854108/ecacb33c-29d6-4f34-b69f-ed4e52654550)
-![image](https://github.com/lauracmh/Conversor_modenas/assets/157854108/8728cde3-0727-4a62-8486-15b65e3c1ded)
+
 
 
 
